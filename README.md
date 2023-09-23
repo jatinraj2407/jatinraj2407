@@ -4,14 +4,7 @@ Hi, I am T JATIN RAJ
 - 🌱 I’m currently learning
 - 📫 How to reach me jatraj1234@gmail.com
 - 💬 I know about WEB
-- Skills -
-- HTML
-- CSS
-- Bootstrap
-- ReactJS
-- Python
-- C programming
-- Front End Development
+- Skills -HTML, CSS, Bootstrap, ReactJS, Python, C programming, Front End Development
 
 
 <!---
