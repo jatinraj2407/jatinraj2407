@@ -1,9 +1,17 @@
 Hi, I am T JATIN RAJ
 
 - 👋 Hi, I’m @jatinraj2407
-- 🌱 I’m currently learning REACTJS
+- 🌱 I’m currently learning
 - 📫 How to reach me jatraj1234@gmail.com
-- 💬 I know about WEB 
+- 💬 I know about WEB
+- Skills -
+- HTML
+- CSS
+- Bootstrap
+- ReactJS
+- Python
+- C programming
+- Front End Development
 
 
 <!---
