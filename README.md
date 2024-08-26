@@ -5,18 +5,18 @@
 I'm a recent Computer Science graduate with a strong passion for building responsive and interactive web applications. My expertise spans both front-end and back-end technologies, and I'm continually exploring new areas in the tech world.
 
 Skills & Expertise:
-Front-End Development: HTML, CSS, Bootstrap, ReactJS
-Back-End Development: Python, SQL
-Current Learning: Data Analytics
+-Front-End Development: HTML, CSS, Bootstrap, ReactJS
+-Back-End Development: Python, SQL
+-Current Learning: Data Analytics
 
 Notable Projects:
-Real-time Weather Monitoring System
-E-commerce Platforms
-Netflix Clone API
+-Real-time Weather Monitoring System
+-E-commerce Platforms
+-Netflix Clone API
 
 Interests:
-Web Development
-Data Analytics
+-Web Development
+-Data Analytics
 
 Feel free to reach out to me at jatraj1234@gmail.com for any collaborations or opportunities!
 
