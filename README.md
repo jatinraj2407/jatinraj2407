@@ -1,10 +1,25 @@
-Hi, I am T JATIN RAJ
+👋 Hi, I’m T Jatin Raj (@jatinraj2407)
 
-- 👋 Hi, I’m @jatinraj2407
-- 🌱 I’m currently learning
-- 📫 How to reach me jatraj1234@gmail.com
-- 💬 I know about WEB
-- Skills -HTML, CSS, Bootstrap, ReactJS, Python, SQL, Front End Development
+💻 Software Developer | 🌐 Web Enthusiast | 🚀 Passionate Learner
+
+I'm a recent Computer Science graduate with a strong passion for building responsive and interactive web applications. My expertise spans both front-end and back-end technologies, and I'm continually exploring new areas in the tech world.
+
+Skills & Expertise:
+Front-End Development: HTML, CSS, Bootstrap, ReactJS
+Back-End Development: Python, SQL
+Current Learning: Data Analytics
+
+Notable Projects:
+Real-time Weather Monitoring System
+E-commerce Platforms
+Netflix Clone API
+
+Interests:
+Web Development
+Data Analytics
+
+Feel free to reach out to me at jatraj1234@gmail.com for any collaborations or opportunities!
+
 
 
 <!---
