@@ -19,10 +19,9 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 **Programmer Analyst** at Cognizant Technology Solutions, Kolkata
+- 💼 **Programmer Analyst** at Cognizant Technology Solutions
 - 🔧 Building end-to-end apps with **Angular + Spring Boot + MySQL**
 - 🌱 Currently deepening expertise in **Microservices, Docker & System Design**
-- 🎓 B.E. Computer Science — Sathyabama Institute of Science & Technology (CGPA: 8.73)
 - 📫 Reach me at **rajjatint@gmail.com**
 
 ---
@@ -89,14 +88,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinraj2407&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinraj2407&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
----
 
 ## 🏅 Certifications
 
